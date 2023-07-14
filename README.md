@@ -1,4 +1,4 @@
-[![MasterHead](https://i2.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif)
+![MasterHead](https://i2.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif)
 <h1 align="center">Hi 👋, I'm Akarsit dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="rigth" alt="Coding" width="400" src="https://www.budgetsaresexy.com/images/working-gif.gif">
