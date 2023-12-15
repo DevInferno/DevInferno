@@ -12,7 +12,7 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://icons8.com/icon/Mm35TzLKahiF/svelte) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
+![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/svelte%20(2).png) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
 
 ### Backend
 
