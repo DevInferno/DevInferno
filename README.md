@@ -13,23 +13,16 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-- **HTML** ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- **CSS (Bootstrap, Tailwind CSS, Chakra UI, Skeleton UI)** ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- **JavaScript (React, Angular, Vue, Svelte)** ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **Next.js** ![Next.js](https://img.icons8.com/color/48/000000/next.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Next.js](https://img.icons8.com/color/48/000000/next.png)
 
 ### Backend
 
-- **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
-- [Add any backend frameworks or technologies you're familiar with] 🚀
+- ![Python](https://img.icons8.com/color/48/000000/python.png) ![Backend](link to backend icon)
 
 ### UI Frameworks
 
-- **Chakra UI** ![Chakra UI](link to Chakra UI icon)
-- **Tailwind CSS** ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- **Bootstrap** ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- **Skeleton UI** ![Skeleton UI](link to Skeleton UI icon)
-- **Svelte** ![Svelte](https://img.icons8.com/color/48/000000/svelte.png)
+- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte.png)
+
 
 ## 🌱 Currently Learning
 
