@@ -21,8 +21,7 @@ Passionate about building scalable and responsive web applications.
 
 ### UI Frameworks
 
-- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte.png)
-
+- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte-logo.png)
 
 
 ## 🌱 Currently Learning
