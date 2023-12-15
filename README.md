@@ -40,10 +40,10 @@ Passionate about building scalable and responsive web applications.
 
 ## 🌱 Currently Learning
 
-- [Add any technologies or frameworks you're currently learning]
+- Next.js ( Half Done ) 
 
 ## 📫 Get in touch
 
-- LinkedIn: [Your LinkedIn Profile](link to your LinkedIn)
-- Portfolio: [Your Portfolio](link to your portfolio)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- Discord: [Inferno](https://discord.com/users/1152852720148029462)
+- X : [Code Devil](https://twitter.com/CodeDevil69)
+- Youtube: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
