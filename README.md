@@ -55,7 +55,7 @@ Passionate about building scalable and responsive web applications.
 - Youtube: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
 
 <div align="center">
-  <a href="https://github.com/Inferno-Dev-69">
+  <a href="https://github.com/DevInferno">
   <img  src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
