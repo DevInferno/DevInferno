@@ -1,21 +1,21 @@
 ![MasterHead](https://i2.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif)
 <h1 align="center">Hi 👋, I'm Akarsit dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="rigth" alt="Coding" width="400" src="https://www.budgetsaresexy.com/images/working-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarsit-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="akarsit-dubey" /> </p>
 
-- 🔭 I’m currently working on **Html Website**
+- 🔭 I’m currently working on **React Apps**
 
-- 🌱 I’m currently learning **Python , html**
+- 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for help with **html website**
+- 🤝 I’m looking for help with **React Portfolio**
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **Unity, React, Chakra UI**
 
-- 📫 How to reach me **contactaddev99@gmail.com**
+- 📫 How to reach me **infernogamer.legend@gmail.com**
 
-- ⚡ Fun fact **I think Im Expert in html**
+- ⚡ Fun fact **I love Icecream In winters**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
