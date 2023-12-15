@@ -4,7 +4,7 @@
        alt="snake" /></a>
 </div>
 
-<center> # 👋 Hello, I'm [Your Name]</center>
+ # 👋 Hello, I'm [Your Name]
 
 Passionate about building scalable and responsive web applications.
 
