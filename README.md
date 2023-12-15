@@ -4,41 +4,56 @@
        alt="snake" /></a>
 </div>
 
-# Hello, I'm [Your Name] 👋
+# 👋 Hello, I'm [Your Name] - Full Stack Web Developer
 
-I'm a Full Stack Web Developer with experience in a wide range of technologies and frameworks.
+Passionate about building scalable and responsive web applications.
 
-## 🛠️ Languages and Tools:
+## 🚀 Skills
 
-- Frontend Development: 
-    - ![HTML icon](https://www.iconfinder.com/search?q=javascript)
-    - ![CSS icon](https://www.flaticon.com/free-icons/javascript)
-    - ![JavaScript icon](https://www.flaticon.com/free-icons/skeleton)
-    - ![React icon]
-    - ![Angular icon]
-    - ![Vue.js icon]
-    - ![Next.js icon]
-    - ![Svelte icon](https://www.skeleton.dev/)
+### Frontend
 
-- UI Libraries and Frameworks:
-    - ![Chakra UI icon]
-    - ![Tailwind CSS icon]
-    - ![Bootstrap icon]
-    - ![Skeleton UI icon](https://www.skeleton.dev/)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Next.js](https://img.icons8.com/color/48/000000/next-js.png)
 
-- Backend Development:
-    - ![Java icon](https://www.skeleton.dev/)
-    - ![Python icon]
+### Backend
 
-- Version Control:
-    - ![Git icon](https://fontawesome.com/icons/js)
+- ![Python](https://img.icons8.com/color/48/000000/python.png) ![Backend](link to backend icon)
 
-## 📫 How to reach me:
+### UI Frameworks
 
-You can reach me at Your Email, or on LinkedIn.
+- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte-logo.png)
 
-## 📊 My GitHub Stats:
+## 💼 Projects
 
-!Your Name's GitHub stats
+- [Project 1 Name](link to project)
+  - Description and key technologies used.
+  - ![Project 1 Image/Icon](link to image/icon)
+
+- [Project 2 Name](link to project)
+  - Description and key technologies used.
+  - ![Project 2 Image/Icon](link to image/icon)
+
+- [Project 3 Name](link to project)
+  - Description and key technologies used.
+  - ![Project 3 Image/Icon](link to image/icon)
+
+## 🌱 Currently Learning
+
+- [Add any technologies or frameworks you're currently learning]
+
+## 📫 Get in touch
+
+- LinkedIn: [Your LinkedIn Profile](link to your LinkedIn)
+- Portfolio: [Your Portfolio](link to your portfolio)
+- Email: [Your Email Address](mailto:your.email@example.com)
+
+## 🎨 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=issues,prs&theme=radical)](https://github.com/your-username)
+
+## 🚀 Let's collaborate!
+
+Feel free to reach out if you're interested in collaborating on projects or discussing web development.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
 
