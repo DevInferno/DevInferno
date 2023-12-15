@@ -4,7 +4,7 @@
        alt="snake" /></a>
 </div>
 
-# 👋 Hello, I'm Inferno_Dev
+# 👋 Hello, I'm [Your Name]
 
 Passionate about building scalable and responsive web applications.
 
@@ -12,7 +12,7 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte]([https://icons8.com/icon/Mm35TzLKahiF/svelte](https://icons8.com/icon/Mm35TzLKahiF/svelte)) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
+![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://img.icons8.com/ios/50/000000/svelte.png) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
 
 ### Backend
 
@@ -20,7 +20,7 @@ Passionate about building scalable and responsive web applications.
 
 ### UI Frameworks
 
-![Chakra UI](https://img.icons8.com/ios/50/000000/react.png) ![Tailwind CSS](https://img.icons8.com/color/96/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/96/000000/bootstrap.png) ![Skeleton UI](https://img.icons8.com/doodle/96/000000/skull-skeleton.png) ![Svelte](https://img.icons8.com/color/96/000000/cute-dragon.png)
+![Chakra UI](https://img.icons8.com/doodle/96/000000/chakra.png) ![Tailwind CSS](https://img.icons8.com/color/96/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/96/000000/bootstrap.png) ![Skeleton UI](https://img.icons8.com/doodle/96/000000/skeleton.png) ![Svelte](https://img.icons8.com/ios/50/000000/svelte.png)
 
 ## 🌱 Currently Learning
 
