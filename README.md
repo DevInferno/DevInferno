@@ -12,7 +12,7 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://img.icons8.com/color/96/000000/svelte-logo.png) ![Next.js](link to Next.js icon)
+![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://img.icons8.com/color/96/000000/cute-dragon.png) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
 
 ### Backend
 
@@ -20,7 +20,7 @@ Passionate about building scalable and responsive web applications.
 
 ### UI Frameworks
 
-![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/96/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/96/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/96/000000/svelte-logo.png)
+![Chakra UI](https://img.icons8.com/ios/50/000000/react.png) ![Tailwind CSS](https://img.icons8.com/color/96/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/96/000000/bootstrap.png) ![Skeleton UI](https://img.icons8.com/doodle/96/000000/skull-skeleton.png) ![Svelte](https://img.icons8.com/color/96/000000/cute-dragon.png)
 
 ## 🌱 Currently Learning
 
