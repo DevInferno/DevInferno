@@ -11,26 +11,27 @@ I'm a Full Stack Web Developer with experience in a wide range of technologies a
 ## 🛠️ Languages and Tools:
 
 - Frontend Development: 
-    - ![HTML icon](https://iconscout.com/icons/git)
-    - ![CSS icon](https://icons8.com/icons/set/svelte)
-    - ![JavaScript icon](https://flowbite-svelte.com/docs/extend/icons)
-    - ![React icon](https://www.flaticon.com/free-icons/python)
+    - ![HTML icon](https://www.iconfinder.com/search?q=javascript)
+    - ![CSS icon](https://www.flaticon.com/free-icons/javascript)
+    - ![JavaScript icon](https://www.flaticon.com/free-icons/skeleton)
+    - ![React icon]
     - ![Angular icon]
     - ![Vue.js icon]
     - ![Next.js icon]
-    - ![Svelte icon](https://iconify.design/docs/icon-components/svelte/)
+    - ![Svelte icon](https://www.skeleton.dev/)
 
 - UI Libraries and Frameworks:
     - ![Chakra UI icon]
     - ![Tailwind CSS icon]
-    - ![Bootstrap icon](https://www.python.org/community/logos/)
+    - ![Bootstrap icon]
+    - ![Skeleton UI icon](https://www.skeleton.dev/)
 
 - Backend Development:
-    - ![Java icon](https://iconify.design/docs/icon-components/svelte/)
-    - ![Python icon](https://www.flaticon.com/free-icons/python)
+    - ![Java icon](https://www.skeleton.dev/)
+    - ![Python icon]
 
 - Version Control:
-    - ![Git icon](https://icons8.com/icons/set/git)
+    - ![Git icon](https://fontawesome.com/icons/js)
 
 ## 📫 How to reach me:
 
@@ -39,4 +40,5 @@ You can reach me at Your Email, or on LinkedIn.
 ## 📊 My GitHub Stats:
 
 !Your Name's GitHub stats
+
 
