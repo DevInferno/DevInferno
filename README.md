@@ -13,7 +13,7 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Next.js](https://img.icons8.com/color/48/000000/next.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Next.js](https://img.icons8.com/color/48/000000/next-js.png)
 
 ### Backend
 
@@ -21,7 +21,8 @@ Passionate about building scalable and responsive web applications.
 
 ### UI Frameworks
 
-- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte.png)
+- ![Chakra UI](link to Chakra UI icon) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Skeleton UI](link to Skeleton UI icon) ![Svelte](https://img.icons8.com/color/48/000000/svelte.png)
+
 
 
 ## 🌱 Currently Learning
