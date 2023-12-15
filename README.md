@@ -4,7 +4,7 @@
        alt="snake" /></a>
 </div>
 
- # 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Your Name]
 
 Passionate about building scalable and responsive web applications.
 
@@ -12,11 +12,11 @@ Passionate about building scalable and responsive web applications.
 
 ### Frontend
 
-![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![Next.js](https://img.icons8.com/color/96/000000/next-js.png)
+![HTML](https://img.icons8.com/color/96/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React](https://img.icons8.com/color/96/000000/react-native.png) ![Vue.js](https://img.icons8.com/color/96/000000/vue-js.png) ![Svelte](https://img.icons8.com/color/96/000000/svelte-logo.png) ![Next.js](link to Next.js icon)
 
 ### Backend
 
-![Python](https://img.icons8.com/color/96/000000/python.png) ![Backend](link to backend icon)
+![Python](https://img.icons8.com/color/96/000000/python.png) ![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png) ![Ruby](https://img.icons8.com/color/96/000000/ruby-programming-language.png) ![PHP](https://img.icons8.com/color/96/000000/php.png) ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png) ![Perl](https://img.icons8.com/color/96/000000/perl.png)
 
 ### UI Frameworks
 
