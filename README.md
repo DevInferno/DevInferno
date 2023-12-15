@@ -56,3 +56,9 @@ Passionate about building scalable and responsive web applications.
 - Discord: [Inferno](https://discord.com/users/1152852720148029462)
 - X : [Code Devil](https://twitter.com/CodeDevil69)
 - Youtube: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
+
+<div align="center">
+  <a href="https://github.com/Inferno-Dev-69">
+  <img  src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
