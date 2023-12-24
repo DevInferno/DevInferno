@@ -46,7 +46,9 @@ Passionate about building scalable and responsive web applications.
 
 ## 🌱 Currently Learning
 
-- Next.js ( Half Done ) 
+- Next.js ( Half Done )
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1152852720148029462)
 
 ## 📫 Get in touch
 
