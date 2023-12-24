@@ -48,8 +48,10 @@ Passionate about building scalable and responsive web applications.
 
 - Next.js ( Half Done )
 
+## 🚀 What I Am Doing?
+<center>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1152852720148029462)
-
+</center>
 ## 📫 Get in touch
 
 - Discord: [Inferno](https://discord.com/users/1152852720148029462)
