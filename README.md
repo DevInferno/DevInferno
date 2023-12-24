@@ -52,6 +52,7 @@ Passionate about building scalable and responsive web applications.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1152852720148029462)
 
+
 ## 📫 Get in touch
 
 - Discord: [Inferno](https://discord.com/users/1152852720148029462)
