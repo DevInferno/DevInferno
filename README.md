@@ -1,66 +1,50 @@
-
 <div align="center">
   <a href="https://github.com/DevInferno">
-  <img  src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg" alt="snake" />
+  </a>
 </div>
 
-# 👋 Hello, I'm Inferno_Dev
+# 👋 Greetings, I'm Inferno_Dev
 
-Passionate about building scalable and responsive web applications.
+Crafting digital experiences with a fusion of art and code. 🚀✨
 
-## 🚀 Skills
+## 🎨 Tech Wizardry
 
 ### Frontend
 
-- HTML
-- CSS
-  - Bootstrap
-  - Tailwind CSS
-  - Chakra UI
-  - Skeleton UI
-- JavaScript
-  - React
-  - Angular
-  - Vue
-  - Svelte
-- Next.js
+- **Web Sorcery**: HTML, CSS (Bootstrap, Tailwind, Chakra, Skeleton)
+- **Magic Scripts**: JavaScript, React, Angular, Vue, Svelte, Next.js
 
 ### Backend
 
-- Python
-- Java
-- Ruby
-- PHP
-- C#
-- Perl
+- **Coding Alchemy**: Python (Flask, Django), Node.js (Express), Ruby (Rails), PHP (Laravel), C# (ASP.NET), Perl
+- **Database Mastery**: MongoDB, MySQL, PostgreSQL, Redis
+
+### ☁️ Cloud Enchantments
+
+- **Hosting Spells**: AWS, Heroku, Netlify
+- **Container Sorcery**: Docker, Kubernetes
 
 ### UI Frameworks
 
-- Chakra UI
-- Tailwind CSS
-- Bootstrap
-- Skeleton UI
-- Svelte
-
+- **Design Wizardry**: Chakra UI, Tailwind CSS, Bootstrap, Skeleton UI, Svelte
 
 ## 🌱 Currently Learning
 
-- Next.js ( Half Done )
+- Mastering the arcane arts of shadow DOM 🌑
 
 ## 🚀 What I Am Doing?
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1152852720148029462)
 
-
 ## 📫 Get in touch
 
 - Discord: [Inferno](https://discord.com/users/1152852720148029462)
-- X : [Code Devil](https://twitter.com/CodeDevil69)
-- Youtube: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
+- Twitter Enchantments: [Code Devil](https://twitter.com/CodeDevil69)
+- YouTube Spells: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
 
 <div align="center">
   <a href="https://github.com/DevInferno">
-  <img  src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg" alt="snake" />
+  </a>
 </div>
