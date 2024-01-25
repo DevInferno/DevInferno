@@ -35,7 +35,7 @@ Crafting digital experiences with a fusion of art and code. 🚀✨
 
 ## 🚀 What I Am Doing?
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1152852720148029462)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1152852720148029462)](https://discord.com/users/1199986460284170240)
 
 ## 📫 Get in touch
 
