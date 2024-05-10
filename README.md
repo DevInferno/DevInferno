@@ -33,10 +33,6 @@ Crafting digital experiences with a fusion of art and code. 🚀✨
 
 - Mastering the arcane arts of shadow DOM 🌑
 
-## 🚀 What I Am Doing?
-
-[![Discord Presence](https://api.lanyard.rest/v1/users/1199986460284170240)](https://discord.com/users/1199986460284170240)
-
 ## 📫 Get in touch
 
 - Discord: [Inferno](https://discord.com/users/1152852720148029462)
